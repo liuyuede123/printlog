@@ -1,0 +1,19 @@
+{
+    "name": "liuyuede123/printlog",
+    "description": "print log",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lfutian",
+            "email": "lfutian@ceibsdigital.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Liuyuede123\\Printlog\\": "src/"
+        }
+    }
+}
