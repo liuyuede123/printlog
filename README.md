@@ -1,0 +1,2 @@
+# printlog
+print log
